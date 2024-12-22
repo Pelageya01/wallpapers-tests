@@ -1,0 +1,10 @@
+node_modules/
+/cypress/downloads
+
+.vscode/
+.idea/
+
+*.log
+
+.DS_Store # macOS
+Thumbs.db # Windows
